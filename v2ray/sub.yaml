@@ -86,307 +86,865 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"剩余流量：5 GB\r","type":"ss","server":"usa.jcnf.app","port":2222,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"距离下次重置剩余：7 天\r","type":"ss","server":"usa.jcnf.app","port":2222,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"套餐到期：2024-10-02\r","type":"ss","server":"usa.jcnf.app","port":2222,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"试用账号7天有效含5G流量\r","type":"ss","server":"usa.jcnf.app","port":2222,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"购买套餐后能用iple线路\r","type":"ss","server":"usa.jcnf.app","port":2223,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"越南 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20145,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"泰国 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20112,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港 HKT | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20135,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港 BGP① | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20157,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港 BGP② | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20149,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港 BGP③ | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20155,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"澳门 CTM | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20159,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"台湾 HINET | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20143,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本 ① | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20139,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本 ② | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20117,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"韩国 ① | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20152,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"韩国 ② | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20170,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡 ① | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20141,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡 ② | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20147,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡 ③ | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20114,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"马来西亚 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20163,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"菲律宾 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20171,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"老挝 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20186,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"缅甸 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20187,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"柬埔寨 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20188,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"巴基斯坦 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20189,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"印度尼西亚 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20167,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"印度 | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20162,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国 ① | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20154,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国 ② | 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20161,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"加拿大 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20166,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"法国| 解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20127,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"英国 |  解锁 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20137,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"荷兰 |  SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20164,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"德国 |  SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20165,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"巴西 | SS\r","type":"ss","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20168,"password":"5b2176ef-13b1-46ba-af05-22182cc30e99","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港 HKT | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20111,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"香港 BPG②| 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20115,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"日本 ① |  V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20113,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"日本 ② | 解锁 |  V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20131,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"台湾 HINET | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20119,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"新加坡 ① | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20121,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"新加坡 ② | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20123,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"韩国 | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20129,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"越南 | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20125,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"美国 | 解锁 | V2","type":"vmess","server":"uydyfkghjrtcsdx.youcansee.cyou","port":20133,"cipher":"auto","uuid":"5b2176ef-13b1-46ba-af05-22182cc30e99","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51003,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51004,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51005,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51006,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn2b.tntbooms.com","port":51003,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51007,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51021,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51022,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51022,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51023,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51023,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51021,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51021,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51022,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51013,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51012,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51012,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51013,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51013,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51031,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51031,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51032,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51032,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51033,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2b.tntbooms.com","port":51002,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51002,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2c.tntbooms.com","port":51001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享","type":"vmess","server":"fn2d.tntbooms.com","port":51002,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51021,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51011,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51011,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享","type":"vmess","server":"fn2a.tntbooms.com","port":51011,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享","type":"vmess","server":"fn2b.tntbooms.com","port":51011,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51052,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51041,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51041,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51042,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51042,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51053,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51034,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51034,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享","type":"vmess","server":"fn2b.tntbooms.com","port":51034,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51051,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51051,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51051,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51051,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22004,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22005,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22003,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22002,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22006,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps","type":"vmess","server":"nnip.tntbooms.com","port":22001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"[Lv2·2.0x] 直连01|香港","type":"vmess","server":"dhk1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv2·2.0x] 直连02|香港","type":"vmess","server":"dhk2.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 直连03|香港","type":"vmess","server":"dhk3.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 直连04|台湾","type":"vmess","server":"dtw1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] 直连05|美国","type":"vmess","server":"dus1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] IPV601|中转","type":"vmess","server":"v6cn1.tntbooms.com","port":51001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] IPV602|中转","type":"vmess","server":"v6cn2.tntbooms.com","port":51001,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] IPV603|香港","type":"vmess","server":"v6hk1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] IPV604|狮城","type":"vmess","server":"v6sg1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv3·2.0x] IPV605|日本","type":"vmess","server":"v6jp1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"*官网:超级炸弹.com*其他渠道均为倒卖*","type":"vmess","server":"ddp.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"新加坡普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 01 ","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 07","type":"ss","server":"112.26.33.116","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 08","type":"ss","server":"112.26.33.116","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 07","type":"ss","server":"112.26.33.116","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 08","type":"ss","server":"112.26.33.116","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 07","type":"ss","server":"112.26.33.116","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 08","type":"ss","server":"112.26.33.116","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 01","type":"ss","server":"112.26.33.116","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 02","type":"ss","server":"112.26.33.116","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 03","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 04","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"加拿大普通 01","type":"ss","server":"112.26.33.116","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"加拿大普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"澳大利亚普通 01","type":"ss","server":"112.26.33.116","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"澳大利亚普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"印度普通 01","type":"ss","server":"112.26.33.116","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"印度普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡极速 01","type":"vmess","server":"112.26.33.116","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 02","type":"vmess","server":"112.26.33.116","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 03","type":"vmess","server":"112.26.33.116","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 04","type":"vmess","server":"112.26.33.116","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 01","type":"vmess","server":"112.26.33.116","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 02","type":"vmess","server":"112.26.33.116","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 03","type":"vmess","server":"112.26.33.116","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 04","type":"vmess","server":"112.26.33.116","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 01","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 02","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 03","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 04","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 01","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 02","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 03","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 04","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 05","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 06","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 07","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 08","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 01","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 02","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 03","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 04","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"韩国极速 01","type":"ss","server":"112.26.33.116","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"韩国极速 02","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"俄罗斯极速 01","type":"vmess","server":"112.26.33.116","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"俄罗斯极速 02","type":"vmess","server":"112.26.33.116","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"加拿大极速 01","type":"vmess","server":"112.26.33.116","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"加拿大极速 02","type":"vmess","server":"112.26.33.116","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"英国极速 01","type":"vmess","server":"112.26.33.116","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"英国极速 02","type":"vmess","server":"112.26.33.116","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"德国极速 01","type":"vmess","server":"112.26.33.116","port":15705,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"法国极速 01","type":"vmess","server":"112.26.33.116","port":15703,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"墨西哥极速 01","type":"ss","server":"112.26.33.116","port":15612,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"土耳其极速 01","type":"vmess","server":"112.26.33.116","port":15714,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"瑞典极速 01","type":"ss","server":"112.26.33.116","port":15615,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"巴西极速 01","type":"ss","server":"112.26.33.116","port":15614,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"超时故障:联系官网客服或更新订阅","type":"ssr","server":"8.8.8.8","port":44878,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf","obfs":"http_simple","protocol":"auth_aes128_sha1"}
+  - {"name":"永久官网:www.猫云.net","type":"ss","server":"8.8.8.8","port":10086,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - DIRECT
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -407,154 +965,433 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 🚀 指定代理
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
   - name: 🎮 游戏专用
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "剩余流量：5 GB\r"
-      - "距离下次重置剩余：7 天\r"
-      - "套餐到期：2024-10-02\r"
-      - "试用账号7天有效含5G流量\r"
-      - "购买套餐后能用iple线路\r"
-      - "越南 | 解锁 | SS\r"
-      - "泰国 | 解锁 | SS\r"
-      - "香港 HKT | 解锁 | SS\r"
-      - "香港 BGP① | 解锁 | SS\r"
-      - "香港 BGP② | 解锁 | SS\r"
-      - "香港 BGP③ | 解锁 | SS\r"
-      - "澳门 CTM | 解锁 | SS\r"
-      - "台湾 HINET | 解锁 | SS\r"
-      - "日本 ① | SS\r"
-      - "日本 ② | 解锁 | SS\r"
-      - "韩国 ① | 解锁 | SS\r"
-      - "韩国 ② | 解锁 | SS\r"
-      - "新加坡 ① | 解锁 | SS\r"
-      - "新加坡 ② | 解锁 | SS\r"
-      - "新加坡 ③ | 解锁 | SS\r"
-      - "马来西亚 | 解锁 | SS\r"
-      - "菲律宾 | 解锁 | SS\r"
-      - "老挝 | 解锁 | SS\r"
-      - "缅甸 | 解锁 | SS\r"
-      - "柬埔寨 | 解锁 | SS\r"
-      - "巴基斯坦 | 解锁 | SS\r"
-      - "印度尼西亚 | 解锁 | SS\r"
-      - "印度 | 解锁 | SS\r"
-      - "美国 ① | 解锁 | SS\r"
-      - "美国 ② | 解锁 | SS\r"
-      - "加拿大 | SS\r"
-      - "法国| 解锁 | SS\r"
-      - "英国 |  解锁 | SS\r"
-      - "荷兰 |  SS\r"
-      - "德国 |  SS\r"
-      - "巴西 | SS\r"
-      - 香港 HKT | 解锁 | V2
-      - 香港 BPG②| 解锁 | V2
-      - 日本 ① |  V2
-      - 日本 ② | 解锁 |  V2
-      - 台湾 HINET | 解锁 | V2
-      - 新加坡 ① | 解锁 | V2
-      - 新加坡 ② | 解锁 | V2
-      - 韩国 | 解锁 | V2
-      - 越南 | 解锁 | V2
-      - 美国 | 解锁 | V2
+      - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港04|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港05|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 香港06|CMI优化路由|HKT家宽|2500Mbps共享'
+      - '[Lv3·1.5x] 日本01|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本02|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本03|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本04|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本05|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本06|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本07|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·1.5x] 日本08|IP均衡优化|混合负载|1000Mbps共享'
+      - '[Lv3·2.0x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡03|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡04|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 新加坡05|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA01|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA02|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA03|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA04|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv3·2.0x] 美国LA05|IP均衡优化|混合负载|500Mbps共享'
+      - '[Lv2·2.0x] 香港01|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港02|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港03|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港04|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港05|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·2.0x] 香港06|IP均衡优化|动态家宽|1000Mbps共享'
+      - '[Lv2·1.5x] 日本01|IP均衡优化|混合负载|600Mbps共享'
+      - '[Lv2·1.5x] 新加坡01|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv2·1.5x] 新加坡02|IP均衡优化|CTN加速|500Mbps共享'
+      - '[Lv1·2.0x] 新加坡01|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享'
+      - '[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享'
+      - '[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享'
+      - '[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享'
+      - '[Lv4·2.0x] 美国01|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国02|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 美国03|OpenAI加速|混合负载|500Mbps共享'
+      - '[Lv4·2.0x] 韩国01|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国02|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国03|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·2.0x] 韩国04|IP均衡优化|混合负载|800Mbps共享'
+      - '[Lv4·3.0x] 香港1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 香港2|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 日本1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 狮城1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 台湾1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv4·3.0x] 韩国1|IPLC专线|OpenAI加速|游戏|100Mbps'
+      - '[Lv2·2.0x] 直连01|香港'
+      - '[Lv2·2.0x] 直连02|香港'
+      - '[Lv3·2.0x] 直连03|香港'
+      - '[Lv3·2.0x] 直连04|台湾'
+      - '[Lv3·2.0x] 直连05|美国'
+      - '[Lv3·2.0x] IPV601|中转'
+      - '[Lv3·2.0x] IPV602|中转'
+      - '[Lv4·2.0x] IPV603|香港'
+      - '[Lv3·2.0x] IPV604|狮城'
+      - '[Lv3·2.0x] IPV605|日本'
+      - '*官网:超级炸弹.com*其他渠道均为倒卖*'
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国普通 05
+      - 美国普通 06
+      - 美国普通 07
+      - 美国普通 08
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
