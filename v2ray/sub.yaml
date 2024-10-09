@@ -86,6 +86,136 @@ dns:
       - 0.0.0.0/32
 
 proxies:
+  - {"name":"防失联 https://catnet.369.cyou\r","type":"ss","server":"127.0.0.1","port":80,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 01 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11001,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 02 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11002,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 03 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11003,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 04 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11004,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 05 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11005,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 06 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11006,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 07 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11007,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 08 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11008,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 09 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11009,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 10 | 深港专线\r","type":"ss","server":"catnet-hk.04z3susick.download","port":11010,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 11 | 公网转发 | x0.3\r","type":"ss","server":"mdss-hk.04z3susick.download","port":12101,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 12 | 公网转发 | x0.3\r","type":"ss","server":"mdss-hk.04z3susick.download","port":12102,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 13 | 公网转发 | x0.3\r","type":"ss","server":"mdss-hk.04z3susick.download","port":12103,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 14 | 公网转发 | x0.3\r","type":"ss","server":"mdss-hk.04z3susick.download","port":12104,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇭🇰 香港 15 | 公网转发 | x0.3\r","type":"ss","server":"mdss-hk.04z3susick.download","port":12105,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 01 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11011,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 02 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11012,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 03 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11013,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 04 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11014,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 05 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11015,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇯🇵 日本 06 | 深港专线\r","type":"ss","server":"catnet-jp.04z3susick.download","port":11016,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 01 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11017,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 02 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11018,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 03 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11019,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 04 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11020,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 05 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11021,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇸🇬 新加坡 06 | 深港专线\r","type":"ss","server":"catnet-sg.04z3susick.download","port":11022,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 01 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11023,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 02 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11024,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 03 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11025,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 04 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11026,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 05 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11027,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇺🇸 美国 06 | 深港专线\r","type":"ss","server":"catnet-us.04z3susick.download","port":11028,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 01 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11029,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 02 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11030,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 03 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11031,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 04 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11032,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 05 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11033,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇳 台湾 06 | 深港专线\r","type":"ss","server":"catnet-tw.04z3susick.download","port":11034,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇰🇭 柬埔寨 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11035,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇰🇭 柬埔寨 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11036,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇩🇪 德国 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11037,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇩🇪 德国 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11038,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇳🇱 荷兰 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11039,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇳🇱 荷兰 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11040,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇮🇳 印度 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11041,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇮🇳 印度 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11042,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇬🇧 英国 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11043,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇬🇧 英国 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11044,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇦 加拿大 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11045,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇨🇦 加拿大 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11046,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇦🇺 澳大利亚 01 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11047,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"🇦🇺 澳大利亚 02 | 深港专线\r","type":"ss","server":"catnet-other.04z3susick.download","port":11048,"password":"65f9b280-dba6-4263-be81-bc94bb950840","cipher":"aes-128-gcm"}
+  - {"name":"新加坡普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 02","type":"vmess","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15718,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本普通 01 ","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 04","type":"vmess","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15718,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 06","type":"vmess","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15718,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡普通 07","type":"ss","server":"112.26.33.115","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡普通 08","type":"vmess","server":"112.26.33.115","port":15718,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 07","type":"ss","server":"112.26.33.115","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"日本普通 08","type":"ss","server":"112.26.33.115","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 03","type":"ss","server":"112.26.33.115","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国普通 04","type":"ss","server":"112.26.33.115","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国CDN 01","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":80,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"美国CDN 02","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":80,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"美国CDN 03","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":443,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"美国CDN 04","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":443,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"香港普通 01","type":"ss","server":"112.26.33.115","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 02","type":"ss","server":"112.26.33.115","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 03","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"香港普通 04","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"加拿大普通 01","type":"ss","server":"112.26.33.115","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"加拿大普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"加拿大CDN 01","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":80,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"加拿大CDN 02","type":"vmess","server":"us-west-anycast.lnaspiring.com","port":443,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ws"}}
+  - {"name":"澳大利亚普通 01","type":"ss","server":"112.26.33.115","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"澳大利亚普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"印度普通 01","type":"ss","server":"112.26.33.115","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"印度普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"新加坡极速 01","type":"vmess","server":"112.26.33.115","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 02","type":"vmess","server":"112.26.33.115","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 03","type":"vmess","server":"112.26.33.115","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"新加坡极速 04","type":"vmess","server":"112.26.33.115","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 01","type":"vmess","server":"112.26.33.115","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 02","type":"vmess","server":"112.26.33.115","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 03","type":"vmess","server":"112.26.33.115","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"美国极速 04","type":"vmess","server":"112.26.33.115","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 01","type":"vmess","server":"112.26.33.115","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 02","type":"vmess","server":"112.26.33.115","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 03","type":"vmess","server":"112.26.33.115","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"日本极速 04","type":"vmess","server":"112.26.33.115","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 01","type":"vmess","server":"112.26.33.115","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 02","type":"vmess","server":"112.26.33.115","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 03","type":"vmess","server":"112.26.33.115","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 04","type":"vmess","server":"112.26.33.115","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 05","type":"vmess","server":"112.26.33.115","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 06","type":"vmess","server":"112.26.33.115","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 07","type":"vmess","server":"112.26.33.115","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"香港极速 08","type":"vmess","server":"112.26.33.115","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 01","type":"vmess","server":"112.26.33.115","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 02","type":"vmess","server":"112.26.33.115","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 03","type":"vmess","server":"112.26.33.115","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"台湾极速 04","type":"vmess","server":"112.26.33.115","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"韩国极速 01","type":"ss","server":"112.26.33.115","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"韩国极速 02","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"俄罗斯极速 01","type":"vmess","server":"112.26.33.115","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"俄罗斯极速 02","type":"vmess","server":"112.26.33.115","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"加拿大极速 01","type":"vmess","server":"112.26.33.115","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"加拿大极速 02","type":"vmess","server":"112.26.33.115","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"英国极速 01","type":"vmess","server":"112.26.33.115","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"英国极速 02","type":"vmess","server":"112.26.33.115","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"德国极速 01","type":"vmess","server":"112.26.33.115","port":15705,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"法国极速 01","type":"vmess","server":"112.26.33.115","port":15703,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"墨西哥极速 01","type":"ss","server":"112.26.33.115","port":15612,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"土耳其极速 01","type":"vmess","server":"112.26.33.115","port":15714,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
+  - {"name":"瑞典极速 01","type":"ss","server":"112.26.33.115","port":15615,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"巴西极速 01","type":"ss","server":"112.26.33.115","port":15614,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"超时故障:联系官网客服或更新订阅","type":"ssr","server":"8.8.8.8","port":44878,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf","obfs":"http_simple","protocol":"auth_aes128_sha1"}
+  - {"name":"永久官网:www.猫云.net","type":"ss","server":"8.8.8.8","port":10086,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
   - {"name":"[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51003,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51004,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51005,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
@@ -123,7 +253,7 @@ proxies:
   - {"name":"[Lv1·2.0x] 新加坡02|IP均衡优化|CTN加速|100Mbps共享","type":"vmess","server":"fn2b.tntbooms.com","port":51011,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv4·2.0x] 俄罗斯|IP均衡优化|混合负载|200Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51052,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv4·2.0x] 台湾01|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51041,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
-  - {"name":"[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51041,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
+  - {"name":"[Lv4·2.0x] 台湾02|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51043,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv4·2.0x] 台湾03|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3p.tntbooms.com","port":51042,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv4·2.0x] 台湾04|Hinet家宽|Azure加速|600Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51042,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv4·2.0x] 土耳其|IP均衡负载|实验性|100Mbps共享","type":"vmess","server":"fn3s.tntbooms.com","port":51053,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
@@ -151,85 +281,141 @@ proxies:
   - {"name":"[Lv3·2.0x] IPV604|狮城","type":"vmess","server":"v6sg1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"[Lv3·2.0x] IPV605|日本","type":"vmess","server":"v6jp1.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
   - {"name":"*官网:超级炸弹.com*其他渠道均为倒卖*","type":"vmess","server":"ddp.tntbooms.com","port":443,"cipher":"auto","uuid":"c126567d-a18a-3b54-9886-a7c4953ebbe1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ttf"}}
-  - {"name":"新加坡普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 01 ","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 01","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 02","type":"ss","server":"019217e1-5e5b-772f-a01c-a88afc143711.45s6e224gdr.shop","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 07","type":"ss","server":"112.26.33.116","port":15604,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡普通 08","type":"ss","server":"112.26.33.116","port":15605,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 07","type":"ss","server":"112.26.33.116","port":15600,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"日本普通 08","type":"ss","server":"112.26.33.116","port":15601,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 03","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 04","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 05","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 06","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 07","type":"ss","server":"112.26.33.116","port":15602,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"美国普通 08","type":"ss","server":"112.26.33.116","port":15603,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港普通 01","type":"ss","server":"112.26.33.116","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港普通 02","type":"ss","server":"112.26.33.116","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港普通 03","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15606,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"香港普通 04","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15607,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"加拿大普通 01","type":"ss","server":"112.26.33.116","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"加拿大普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15608,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"澳大利亚普通 01","type":"ss","server":"112.26.33.116","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"澳大利亚普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15609,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"印度普通 01","type":"ss","server":"112.26.33.116","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"印度普通 02","type":"ss","server":"a192184e-9c3a-79aa-9341-9b11dcec8da8.ioyc7.store","port":15610,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"新加坡极速 01","type":"vmess","server":"112.26.33.116","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"新加坡极速 02","type":"vmess","server":"112.26.33.116","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"新加坡极速 03","type":"vmess","server":"112.26.33.116","port":15708,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"新加坡极速 04","type":"vmess","server":"112.26.33.116","port":15709,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"美国极速 01","type":"vmess","server":"112.26.33.116","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"美国极速 02","type":"vmess","server":"112.26.33.116","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"美国极速 03","type":"vmess","server":"112.26.33.116","port":15710,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"美国极速 04","type":"vmess","server":"112.26.33.116","port":15711,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"日本极速 01","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"日本极速 02","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"日本极速 03","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"日本极速 04","type":"vmess","server":"112.26.33.116","port":15700,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 01","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 02","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 03","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 04","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 05","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 06","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 07","type":"vmess","server":"112.26.33.116","port":15706,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"香港极速 08","type":"vmess","server":"112.26.33.116","port":15707,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"台湾极速 01","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"台湾极速 02","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"台湾极速 03","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"台湾极速 04","type":"vmess","server":"112.26.33.116","port":15701,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"韩国极速 01","type":"ss","server":"112.26.33.116","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"韩国极速 02","type":"ss","server":"da62adf8-9dc5-4f84-aa06-2cee6644ea7e.9sjd2dkesl2.shop","port":15611,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"俄罗斯极速 01","type":"vmess","server":"112.26.33.116","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"俄罗斯极速 02","type":"vmess","server":"112.26.33.116","port":15713,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"加拿大极速 01","type":"vmess","server":"112.26.33.116","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"加拿大极速 02","type":"vmess","server":"112.26.33.116","port":15712,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"英国极速 01","type":"vmess","server":"112.26.33.116","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"英国极速 02","type":"vmess","server":"112.26.33.116","port":15702,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"德国极速 01","type":"vmess","server":"112.26.33.116","port":15705,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"法国极速 01","type":"vmess","server":"112.26.33.116","port":15703,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"墨西哥极速 01","type":"ss","server":"112.26.33.116","port":15612,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"土耳其极速 01","type":"vmess","server":"112.26.33.116","port":15714,"cipher":"auto","uuid":"937b8d2a-7cb3-3abe-befe-c7e3bc95ecd2","alterId":0,"tls":false,"skip-cert-verify":true,"network":""}
-  - {"name":"瑞典极速 01","type":"ss","server":"112.26.33.116","port":15615,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"巴西极速 01","type":"ss","server":"112.26.33.116","port":15614,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"超时故障:联系官网客服或更新订阅","type":"ssr","server":"8.8.8.8","port":44878,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf","obfs":"http_simple","protocol":"auth_aes128_sha1"}
-  - {"name":"永久官网:www.猫云.net","type":"ss","server":"8.8.8.8","port":10086,"password":"yi1Gcd2KJLPprj9y","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - DIRECT
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -295,85 +481,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -439,85 +681,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -583,85 +881,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -727,85 +1081,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -871,80 +1281,6 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -965,6 +1301,136 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -1030,85 +1496,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 🚀 指定代理
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -1174,85 +1696,141 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
   - name: 🎮 游戏专用
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - "防失联 https://catnet.369.cyou\r"
+      - "🇭🇰 香港 01 | 深港专线\r"
+      - "🇭🇰 香港 02 | 深港专线\r"
+      - "🇭🇰 香港 03 | 深港专线\r"
+      - "🇭🇰 香港 04 | 深港专线\r"
+      - "🇭🇰 香港 05 | 深港专线\r"
+      - "🇭🇰 香港 06 | 深港专线\r"
+      - "🇭🇰 香港 07 | 深港专线\r"
+      - "🇭🇰 香港 08 | 深港专线\r"
+      - "🇭🇰 香港 09 | 深港专线\r"
+      - "🇭🇰 香港 10 | 深港专线\r"
+      - "🇭🇰 香港 11 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 12 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 13 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 14 | 公网转发 | x0.3\r"
+      - "🇭🇰 香港 15 | 公网转发 | x0.3\r"
+      - "🇯🇵 日本 01 | 深港专线\r"
+      - "🇯🇵 日本 02 | 深港专线\r"
+      - "🇯🇵 日本 03 | 深港专线\r"
+      - "🇯🇵 日本 04 | 深港专线\r"
+      - "🇯🇵 日本 05 | 深港专线\r"
+      - "🇯🇵 日本 06 | 深港专线\r"
+      - "🇸🇬 新加坡 01 | 深港专线\r"
+      - "🇸🇬 新加坡 02 | 深港专线\r"
+      - "🇸🇬 新加坡 03 | 深港专线\r"
+      - "🇸🇬 新加坡 04 | 深港专线\r"
+      - "🇸🇬 新加坡 05 | 深港专线\r"
+      - "🇸🇬 新加坡 06 | 深港专线\r"
+      - "🇺🇸 美国 01 | 深港专线\r"
+      - "🇺🇸 美国 02 | 深港专线\r"
+      - "🇺🇸 美国 03 | 深港专线\r"
+      - "🇺🇸 美国 04 | 深港专线\r"
+      - "🇺🇸 美国 05 | 深港专线\r"
+      - "🇺🇸 美国 06 | 深港专线\r"
+      - "🇨🇳 台湾 01 | 深港专线\r"
+      - "🇨🇳 台湾 02 | 深港专线\r"
+      - "🇨🇳 台湾 03 | 深港专线\r"
+      - "🇨🇳 台湾 04 | 深港专线\r"
+      - "🇨🇳 台湾 05 | 深港专线\r"
+      - "🇨🇳 台湾 06 | 深港专线\r"
+      - "🇰🇭 柬埔寨 01 | 深港专线\r"
+      - "🇰🇭 柬埔寨 02 | 深港专线\r"
+      - "🇩🇪 德国 01 | 深港专线\r"
+      - "🇩🇪 德国 02 | 深港专线\r"
+      - "🇳🇱 荷兰 01 | 深港专线\r"
+      - "🇳🇱 荷兰 02 | 深港专线\r"
+      - "🇮🇳 印度 01 | 深港专线\r"
+      - "🇮🇳 印度 02 | 深港专线\r"
+      - "🇬🇧 英国 01 | 深港专线\r"
+      - "🇬🇧 英国 02 | 深港专线\r"
+      - "🇨🇦 加拿大 01 | 深港专线\r"
+      - "🇨🇦 加拿大 02 | 深港专线\r"
+      - "🇦🇺 澳大利亚 01 | 深港专线\r"
+      - "🇦🇺 澳大利亚 02 | 深港专线\r"
+      - 新加坡普通 01
+      - 新加坡普通 02
+      - '日本普通 01 '
+      - 日本普通 02
+      - 美国普通 01
+      - 美国普通 02
+      - 新加坡普通 03
+      - 新加坡普通 04
+      - 新加坡普通 05
+      - 新加坡普通 06
+      - 新加坡普通 07
+      - 新加坡普通 08
+      - 日本普通 03
+      - 日本普通 04
+      - 日本普通 05
+      - 日本普通 06
+      - 日本普通 07
+      - 日本普通 08
+      - 美国普通 03
+      - 美国普通 04
+      - 美国CDN 01
+      - 美国CDN 02
+      - 美国CDN 03
+      - 美国CDN 04
+      - 香港普通 01
+      - 香港普通 02
+      - 香港普通 03
+      - 香港普通 04
+      - 加拿大普通 01
+      - 加拿大普通 02
+      - 加拿大CDN 01
+      - 加拿大CDN 02
+      - 澳大利亚普通 01
+      - 澳大利亚普通 02
+      - 印度普通 01
+      - 印度普通 02
+      - 新加坡极速 01
+      - 新加坡极速 02
+      - 新加坡极速 03
+      - 新加坡极速 04
+      - 美国极速 01
+      - 美国极速 02
+      - 美国极速 03
+      - 美国极速 04
+      - 日本极速 01
+      - 日本极速 02
+      - 日本极速 03
+      - 日本极速 04
+      - 香港极速 01
+      - 香港极速 02
+      - 香港极速 03
+      - 香港极速 04
+      - 香港极速 05
+      - 香港极速 06
+      - 香港极速 07
+      - 香港极速 08
+      - 台湾极速 01
+      - 台湾极速 02
+      - 台湾极速 03
+      - 台湾极速 04
+      - 韩国极速 01
+      - 韩国极速 02
+      - 俄罗斯极速 01
+      - 俄罗斯极速 02
+      - 加拿大极速 01
+      - 加拿大极速 02
+      - 英国极速 01
+      - 英国极速 02
+      - 德国极速 01
+      - 法国极速 01
+      - 墨西哥极速 01
+      - 土耳其极速 01
+      - 瑞典极速 01
+      - 巴西极速 01
+      - 超时故障:联系官网客服或更新订阅
+      - 永久官网:www.猫云.net
       - '[Lv3·1.5x] 香港01|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港02|CMI优化路由|HKT家宽|2500Mbps共享'
       - '[Lv3·1.5x] 香港03|CMI优化路由|HKT家宽|2500Mbps共享'
@@ -1318,80 +1896,6 @@ proxy-groups:
       - '[Lv3·2.0x] IPV604|狮城'
       - '[Lv3·2.0x] IPV605|日本'
       - '*官网:超级炸弹.com*其他渠道均为倒卖*'
-      - 新加坡普通 01
-      - 新加坡普通 02
-      - '日本普通 01 '
-      - 日本普通 02
-      - 美国普通 01
-      - 美国普通 02
-      - 新加坡普通 03
-      - 新加坡普通 04
-      - 新加坡普通 05
-      - 新加坡普通 06
-      - 新加坡普通 07
-      - 新加坡普通 08
-      - 日本普通 03
-      - 日本普通 04
-      - 日本普通 05
-      - 日本普通 06
-      - 日本普通 07
-      - 日本普通 08
-      - 美国普通 03
-      - 美国普通 04
-      - 美国普通 05
-      - 美国普通 06
-      - 美国普通 07
-      - 美国普通 08
-      - 香港普通 01
-      - 香港普通 02
-      - 香港普通 03
-      - 香港普通 04
-      - 加拿大普通 01
-      - 加拿大普通 02
-      - 澳大利亚普通 01
-      - 澳大利亚普通 02
-      - 印度普通 01
-      - 印度普通 02
-      - 新加坡极速 01
-      - 新加坡极速 02
-      - 新加坡极速 03
-      - 新加坡极速 04
-      - 美国极速 01
-      - 美国极速 02
-      - 美国极速 03
-      - 美国极速 04
-      - 日本极速 01
-      - 日本极速 02
-      - 日本极速 03
-      - 日本极速 04
-      - 香港极速 01
-      - 香港极速 02
-      - 香港极速 03
-      - 香港极速 04
-      - 香港极速 05
-      - 香港极速 06
-      - 香港极速 07
-      - 香港极速 08
-      - 台湾极速 01
-      - 台湾极速 02
-      - 台湾极速 03
-      - 台湾极速 04
-      - 韩国极速 01
-      - 韩国极速 02
-      - 俄罗斯极速 01
-      - 俄罗斯极速 02
-      - 加拿大极速 01
-      - 加拿大极速 02
-      - 英国极速 01
-      - 英国极速 02
-      - 德国极速 01
-      - 法国极速 01
-      - 墨西哥极速 01
-      - 土耳其极速 01
-      - 瑞典极速 01
-      - 巴西极速 01
-      - 超时故障:联系官网客服或更新订阅
-      - 永久官网:www.猫云.net
 
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
